@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1647162295 source:d:\projects\c++\proiect pp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1651245764 source:d:\projects\c_c++\proiect pp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<conio.h>
+
